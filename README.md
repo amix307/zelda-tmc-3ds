@@ -1,4 +1,4 @@
-# The Minish Cap 3DS
+# The Minish Cap 3DS Russian Translation
 
 <img width="1672" height="941" alt="The Minish Cap 3DS" src="https://github.com/user-attachments/assets/db99e777-12a2-4222-86c3-7c8f14062586" />
 
